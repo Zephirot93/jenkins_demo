@@ -1,1 +1,1 @@
-print("This is a Jenkins thingy yay")
+print "This is a Jenkins thingy yay"
